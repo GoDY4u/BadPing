@@ -38,11 +38,11 @@ To run the script, provide the **destination IP address** and the **attack level
 ./dos_ping_level.sh <Destination IP> -level <Level (1-5)>
 ```
 
-<Destination IP>: The target IP address of the server or device.
+<Destination IP> The target IP address of the server or device.
 -level: The intensity of the attack (1-5), where 1 is the least aggressive and 5 is the most aggressive.
 
 
-Example Commands:
+### Example Commands:
 
 Level 1 (Low intensity):
 
