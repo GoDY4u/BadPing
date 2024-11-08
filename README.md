@@ -72,27 +72,27 @@ Level	Packet Size (-s)	Ping Interval (-i)	Description
 5	65500 bytes	0.0005 seconds	Maximum intensity
 
 
-Warnings ⚠️
+
+Permissions:
+For higher attack levels (Level 4 and 5), root (superuser) privileges may be required due to larger packet sizes and shorter ping intervals. Use sudo to execute the script with the necessary permissions.
+
+
+
+### Warnings ⚠️
+
 Authorization:
 Only use this script on systems and networks where you have explicit permission. Running DoS attacks without authorization is illegal and can result in serious criminal charges.
 
 Impact:
 This script can quickly overwhelm the target system by sending high volumes of ping requests, which may lead to service disruptions, network congestion, or even system crashes. Always ensure that you are conducting tests in a controlled environment where you have explicit consent.
 
-Permissions:
-For higher attack levels (Level 4 and 5), root (superuser) privileges may be required due to larger packet sizes and shorter ping intervals. Use sudo to execute the script with the necessary permissions.
+
 
 Misuse Consequences:
 Misusing this tool can lead to serious legal consequences, including criminal liability. This script should only be used for ethical purposes, such as authorized penetration testing or security research. Always confirm that you have written permission from the network/system owner before performing any tests.
 
 
 
-License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code, provided you comply with the terms of the license. However, always ensure that you have the proper authorization before testing any network or system.
-
-Disclaimer ⚖️
-
-This script is provided for educational purposes and for use in authorized penetration testing environments only. The creators of this script are not responsible for any damage, disruption, or legal consequences caused by the misuse of this tool. By using this script, you accept full responsibility for its application.
 
 Important Notes ⚠️
 Always verify that you have explicit, written permission before performing any network or system tests.
@@ -106,12 +106,10 @@ The License and Disclaimer sections have been reorganized for better clarity and
 
 
 
+Disclaimer ⚖️
 
+This script is provided for educational purposes and for use in authorized penetration testing environments only. The creators of this script are not responsible for any damage, disruption, or legal consequences caused by the misuse of this tool. By using this script, you accept full responsibility for its application.
 
-
-
-
-
-
-
+License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code, provided you comply with the terms of the license. However, always ensure that you have the proper authorization before testing any network or system.
 
