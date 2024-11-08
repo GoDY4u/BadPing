@@ -90,12 +90,19 @@ Misusing this tool can lead to serious legal consequences, including criminal li
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code, provided you comply with the terms of the license. However, always ensure that you have the proper authorization before testing any network or system.
 
-Disclaimer
-This script is provided for educational purposes and for use in authorized penetration testing environments only. The creators of this script are not responsible for any damage caused by unauthorized usage.
+Disclaimer ⚖️
 
-Important Notes:
-Always verify that you have written permission before testing any network or system.
-This tool is not intended for malicious use. Misuse may have serious legal consequences.
+This script is provided for educational purposes and for use in authorized penetration testing environments only. The creators of this script are not responsible for any damage, disruption, or legal consequences caused by the misuse of this tool. By using this script, you accept full responsibility for its application.
+
+Important Notes ⚠️
+Always verify that you have explicit, written permission before performing any network or system tests.
+This tool is not intended for malicious use. Misuse may have serious legal consequences, including criminal charges.
+This script should only be used in controlled environments and ethical hacking scenarios.
+
+Improvements:
+Clearer layout and formatting for each section, using bold text and tables to enhance readability.
+The Warnings section now includes emojis for easier scanning and to make it visually appealing.
+The License and Disclaimer sections have been reorganized for better clarity and structure.
 
 
 
