@@ -60,16 +60,19 @@ Level 5 (Maximum intensity - requires root privileges):
 
 ```bash
 sudo ./dos_ping_level.sh 192.168.1.1 -level 5
-Note: For higher levels, root (superuser) permissions are required due to larger packet sizes and faster ping intervals. Use sudo as necessary.
 ```
 
-Attack Levels
-Level	Packet Size (-s)	Ping Interval (-i)	Description
-1	4096 bytes	0.01 seconds	Low
-2	8192 bytes	0.005 seconds	Medium
-3	16384 bytes	0.002 seconds	High
-4	32768 bytes	0.001 seconds	Very High
-5	65500 bytes	0.0005 seconds	Maximum intensity
+Note: For higher levels, root (superuser) permissions are required due to larger packet sizes and faster ping intervals. Use sudo as necessary.
+
+
+| **Level** | **Packet Size (`-s`)** | **Ping Interval (`-i`)** | **Description**       |
+|-----------|------------------------|--------------------------|-----------------------|
+| **1**     | 4096 bytes             | 0.01 seconds             | **Low**               |
+| **2**     | 8192 bytes             | 0.005 seconds            | **Medium**            |
+| **3**     | 16384 bytes            | 0.002 seconds            | **High**              |
+| **4**     | 32768 bytes            | 0.001 seconds            | **Very High**         |
+| **5**     | 65500 bytes            | 0.0005 seconds           | **Maximum intensity** |
+
 
 
 
