@@ -36,29 +36,32 @@ To run the script, provide the **destination IP address** and the **attack level
 
 ```bash
 ./dos_ping_level.sh <Destination IP> -level <Level (1-5)>
-
+```
 
 <Destination IP>: The target IP address of the server or device.
 -level: The intensity of the attack (1-5), where 1 is the least aggressive and 5 is the most aggressive.
 
 
 Example Commands:
+
 Level 1 (Low intensity):
 
-bash
-Copiar código
+```bash
 ./dos_ping_level.sh 192.168.1.1 -level 1
+```
+
 Level 3 (High intensity):
 
-bash
-Copiar código
+```bash
 ./dos_ping_level.sh 192.168.1.1 -level 3
+```
+
 Level 5 (Maximum intensity - requires root privileges):
 
-bash
-Copiar código
+```bash
 sudo ./dos_ping_level.sh 192.168.1.1 -level 5
 Note: For higher levels, root (superuser) permissions are required due to larger packet sizes and faster ping intervals. Use sudo as necessary.
+```
 
 Attack Levels
 Level	Packet Size (-s)	Ping Interval (-i)	Description
