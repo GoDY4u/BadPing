@@ -32,7 +32,7 @@ To run the script, provide the **destination IP address** and the **attack level
 ### Syntax:
 
 ```bash
-./dos_ping_level.sh <Destination IP> -level <Level (1-5)>
+./badping.sh <Destination IP> -level <Level (1-5)>
 ```
 
 <Destination IP> The target IP address of the server or device.
