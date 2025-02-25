@@ -83,30 +83,23 @@ For higher attack levels (Level 4 and 5), root (superuser) privileges may be req
 
 ### Warnings ⚠️
 
-Authorization:
-Only use this script on systems and networks where you have explicit permission. Running DoS attacks without authorization is illegal and can result in serious criminal charges.
+🔑 Authorization:
+Only use this script on systems or networks where you have explicit permission. Running DoS attacks without authorization is illegal and can result in serious legal consequences. ⚖️
 
-Impact:
-This script can quickly overwhelm the target system by sending high volumes of ping requests, which may lead to service disruptions, network congestion, or even system crashes. Always ensure that you are conducting tests in a controlled environment where you have explicit consent.
+💥 Impact:
+This script can quickly overwhelm the target system with ping requests, potentially causing service disruptions, network congestion, or even system crashes. Always conduct tests in controlled environments and with explicit consent. 💻🚨
 
-
-
-Misuse Consequences:
-Misusing this tool can lead to serious legal consequences, including criminal liability. This script should only be used for ethical purposes, such as authorized penetration testing or security research. Always confirm that you have written permission from the network/system owner before performing any tests.
+⚖️ Misuse Consequences:
+Misusing this tool can lead to serious legal consequences, including criminal liability. This script should only be used for authorized penetration testing or security research. Always confirm that you have written permission from the system/network owner before performing any tests. ✋🔐
 
 
+⚡ Important Notes ⚡
 
-Important Notes ⚠️
-Always verify that you have explicit, written permission before performing any network or system tests.
-This tool is not intended for malicious use. Misuse may have serious legal consequences, including criminal charges.
-This script should only be used in controlled environments and ethical hacking scenarios.
-
-Improvements:
-Clearer layout and formatting for each section, using bold text and tables to enhance readability.
-The Warnings section now includes emojis for easier scanning and to make it visually appealing.
-The License and Disclaimer sections have been reorganized for better clarity and structure.
+Always verify that you have explicit, written consent before performing any network or system tests. 📄✍️
+This tool is NOT for malicious use. Misuse may lead to criminal charges. 🚫
+Use only in controlled environments and ethical hacking scenarios. 🛡️
 
 
-Disclaimer ⚖️
+ ⚠️ Disclaimer ⚠️
 
 This script is provided for educational purposes and for use in authorized penetration testing environments only. The creators of this script are not responsible for any damage, disruption, or legal consequences caused by the misuse of this tool. By using this script, you accept full responsibility for its application.
