@@ -96,8 +96,11 @@ Misusing this tool can lead to serious legal consequences, including criminal li
 ⚡ Important Notes & Warnings ⚡
 
 Always verify that you have explicit, written consent before performing any network or system tests. 📄✍️
+
 This tool is **NOT for malicious use.** Misuse may lead to criminal charges. 🚫
+
 Use **only in controlled environments** and ethical hacking scenarios. 🛡️
+
 **Only use this script on networks and systems where you have explicit authorization. Unauthorized DoS attacks are illegal and can cause severe disruptions, including network outages and data loss.** 🚨
 
 
