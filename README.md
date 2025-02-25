@@ -1,4 +1,4 @@
-# BadPing 🚀
+# BadPing 🚀💻
 
 This Bash script allows you to perform a **Denial of Service (DoS)** attack using **ICMP ping requests** with varying packet sizes and intervals. The attack levels range from low to maximum, allowing flexibility to simulate different intensity scenarios.
 
