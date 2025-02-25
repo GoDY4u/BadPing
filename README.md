@@ -77,33 +77,32 @@ Permissions:
 For higher attack levels (Level 4 and 5), root (superuser) privileges may be required due to larger packet sizes and shorter ping intervals. Use sudo to execute the script with the necessary permissions.
 
 
-
 ### Warnings 🚨⚠️
 
-🔑 Authorization:
+## 🔑 Authorization
+**Important**: Only use this script on systems or networks where you have explicit permission. Unauthorized use for DoS attacks is illegal and can lead to serious legal consequences. ⚖️
 
-Only use this script on systems or networks where you have explicit permission. Running DoS attacks without authorization is illegal and can result in serious legal consequences. ⚖️
+## 💥 Impact
+This script can overwhelm the target system with a high volume of ping requests, leading to:
 
-💥 Impact:
+- Service disruptions
+- Network congestion
+- System crashes
 
-This script can quickly overwhelm the target system with ping requests, potentially causing service disruptions, network congestion, or even system crashes. Always conduct tests in controlled environments and with explicit consent. 💻🚨
+Always ensure you conduct tests only in **controlled environments** and with **explicit consent**. 💻🚨
 
-⚖️ Misuse Consequences:
+---
 
-Misusing this tool can lead to serious legal consequences, including criminal liability. This script should only be used for authorized penetration testing or security research. Always confirm that you have written permission from the system/network owner before performing any tests. ✋🔐
+## ⚖️ Misuse and Legal Consequences
+Misusing this tool can result in serious **legal** and **criminal consequences**. It should only be used for **authorized penetration testing** or **security research**. 
 
+- **Never use this script for malicious purposes**. Unauthorized DoS attacks can lead to **network outages**, **data loss**, and more. 🚫
+- Always **verify** you have **written consent** from the system or network owner before conducting any tests. 📄✍️
+- The creators are **not responsible** for any damage, disruption, or legal repercussions from misuse. By using this script, you accept **full responsibility** for its actions.
 
-⚡ Important Notes & Warnings ⚡
+---
 
-Always verify that you have explicit, written consent before performing any network or system tests. 📄✍️
+## ⚡ Disclaimer ⚡
+This script is provided **for educational purposes** and **authorized penetration testing only**. 
 
-This tool is **NOT for malicious use.** Misuse may lead to criminal charges. 🚫
-
-Use **only in controlled environments** and ethical hacking scenarios. 🛡️
-
-**Only use this script on networks and systems where you have explicit authorization. Unauthorized DoS attacks are illegal and can cause severe disruptions, including network outages and data loss.** 🚨
-
-
-⚠️ Disclaimer ⚠️
-
-This script is provided for **educational purposes** and authorized penetration testing only. The creators are not responsible for any damage, disruption, or legal consequences from misuse. By using this script, you accept full responsibility for its use.
+**Use responsibly** and ensure you have proper permission before testing any system or network.
