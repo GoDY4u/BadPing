@@ -84,12 +84,15 @@ For higher attack levels (Level 4 and 5), root (superuser) privileges may be req
 ### Warnings ⚠️
 
 🔑 Authorization:
+
 Only use this script on systems or networks where you have explicit permission. Running DoS attacks without authorization is illegal and can result in serious legal consequences. ⚖️
 
 💥 Impact:
+
 This script can quickly overwhelm the target system with ping requests, potentially causing service disruptions, network congestion, or even system crashes. Always conduct tests in controlled environments and with explicit consent. 💻🚨
 
 ⚖️ Misuse Consequences:
+
 Misusing this tool can lead to serious legal consequences, including criminal liability. This script should only be used for authorized penetration testing or security research. Always confirm that you have written permission from the system/network owner before performing any tests. ✋🔐
 
 
