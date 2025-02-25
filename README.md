@@ -72,7 +72,6 @@ Note: For higher levels, root (superuser) permissions are required due to larger
 
 
 
-
 Permissions:
 For higher attack levels (Level 4 and 5), root (superuser) privileges may be required due to larger packet sizes and shorter ping intervals. Use sudo to execute the script with the necessary permissions.
 
@@ -104,5 +103,7 @@ Misusing this tool can result in serious **legal** and **criminal consequences**
 
 ## ⚡ Disclaimer ⚡
 This script is provided **for educational purposes** and **authorized penetration testing only**. 
+
+As the creator of this script, I **do not take any responsibility** for any damage, disruption, or legal consequences caused by its use. **You** (the user) are solely responsible for ensuring that you have proper authorization and permission before using the script. Misuse could result in criminal charges, and it is your responsibility to act within the boundaries of the law.
 
 **Use responsibly** and ensure you have proper permission before testing any system or network.
