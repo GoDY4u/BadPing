@@ -47,19 +47,19 @@ To run the script, provide the **destination IP address** and the **attack level
 Level 1 (Low intensity):
 
 ```bash
-./dos_ping_level.sh 192.168.1.1 -level 1
+./badping.sh 192.168.1.1 -level 1
 ```
 
 Level 3 (High intensity):
 
 ```bash
-./dos_ping_level.sh 192.168.1.1 -level 3
+./badping.sh 192.168.1.1 -level 3
 ```
 
 Level 5 (Maximum intensity - requires root privileges):
 
 ```bash
-sudo ./dos_ping_level.sh 192.168.1.1 -level 5
+sudo ./badping.sh 192.168.1.1 -level 5
 ```
 
 Note: For higher levels, root (superuser) permissions are required due to larger packet sizes and faster ping intervals. Use sudo as necessary.
