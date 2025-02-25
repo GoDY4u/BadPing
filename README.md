@@ -2,9 +2,6 @@
 
 This Bash script allows you to perform a **Denial of Service (DoS)** attack using **ICMP ping requests** with varying packet sizes and intervals. The attack levels range from low to maximum, allowing flexibility to simulate different intensity scenarios.
 
-### 🚨 **Warning**:
-This script should **only be used on networks and systems where you have explicit authorization**. Unauthorized DoS attacks are **illegal** and can cause severe service disruptions, including network outages and data loss.
-
 ---
 
 ## Description
@@ -81,7 +78,7 @@ For higher attack levels (Level 4 and 5), root (superuser) privileges may be req
 
 
 
-### Warnings ⚠️
+### Warnings 🚨⚠️
 
 🔑 Authorization:
 
@@ -96,13 +93,14 @@ This script can quickly overwhelm the target system with ping requests, potentia
 Misusing this tool can lead to serious legal consequences, including criminal liability. This script should only be used for authorized penetration testing or security research. Always confirm that you have written permission from the system/network owner before performing any tests. ✋🔐
 
 
-⚡ Important Notes ⚡
+⚡ Important Notes & Warnings ⚡
 
 Always verify that you have explicit, written consent before performing any network or system tests. 📄✍️
-This tool is NOT for malicious use. Misuse may lead to criminal charges. 🚫
-Use only in controlled environments and ethical hacking scenarios. 🛡️
+This tool is **NOT for malicious use.** Misuse may lead to criminal charges. 🚫
+Use **only in controlled environments** and ethical hacking scenarios. 🛡️
+**Only use this script on networks and systems where you have explicit authorization. Unauthorized DoS attacks are illegal and can cause severe disruptions, including network outages and data loss.** 🚨
 
 
- ⚠️ Disclaimer ⚠️
+⚠️ Disclaimer ⚠️
 
-This script is provided for educational purposes and for use in authorized penetration testing environments only. The creators of this script are not responsible for any damage, disruption, or legal consequences caused by the misuse of this tool. By using this script, you accept full responsibility for its application.
+This script is provided for **educational purposes** and authorized penetration testing only. The creators are not responsible for any damage, disruption, or legal consequences from misuse. By using this script, you accept full responsibility for its use.
