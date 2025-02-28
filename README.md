@@ -101,6 +101,19 @@ Misusing this tool can result in serious **legal** and **criminal consequences**
 
 ---
 
+---
+
+📩 For any questions or suggestions, open an **issue** on GitHub.
+
+---
+
+## 🌍 Connect
+
+If you liked this project, feel free to leave a ⭐ on the repository and share it with the community. 😃
+
+---
+
+
 ## ⚡ Disclaimer ⚡
 This script is provided **for educational purposes** and **authorized penetration testing only**. 
 
