@@ -101,8 +101,6 @@ Misusing this tool can result in serious **legal** and **criminal consequences**
 
 ---
 
----
-
 📩 For any questions or suggestions, open an **issue** on GitHub.
 
 ---
