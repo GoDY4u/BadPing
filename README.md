@@ -1,5 +1,27 @@
 # BadPing 🚀💻
 
+
+
+![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
+![Status](https://img.shields.io/badge/Status-Development-orange)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue)
+
+---------
+
+
+![GitHub repo size](https://img.shields.io/github/repo-size/GoDY/BadPing)
+![GitHub stars](https://img.shields.io/github/stars/GoDY/BadPing?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GoDY/BadPing?style=social)
+![GitHub issues](https://img.shields.io/github/issues/GoDY/BadPing)
+![GitHub license](https://img.shields.io/github/license/GoDY/BadPing)
+![GitHub last commit](https://img.shields.io/github/last-commit/GoDY/BadPing)
+
+
+
+---
+
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/GoDY/BadPing)
 ![GitHub stars](https://img.shields.io/github/stars/GoDY/BadPing?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/GoDY/BadPing?style=social)
