@@ -1,5 +1,15 @@
 # BadPing 🚀💻
 
+![GitHub repo size](https://img.shields.io/github/repo-size/GoDY/BadPing)
+![GitHub stars](https://img.shields.io/github/stars/GoDY/BadPing?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GoDY/BadPing?style=social)
+![GitHub issues](https://img.shields.io/github/issues/GoDY/BadPing)
+![GitHub license](https://img.shields.io/github/license/GoDY/BadPing)
+![GitHub last commit](https://img.shields.io/github/last-commit/GoDY/BadPing)
+![GitHub contributors](https://img.shields.io/github/contributors/GoDY/BadPing)
+![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
+
+
 This Bash script allows you to perform a **Denial of Service (DoS)** attack using **ICMP ping requests** with varying packet sizes and intervals. The attack levels range from low to maximum, allowing flexibility to simulate different intensity scenarios.
 
 ---
