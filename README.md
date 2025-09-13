@@ -1,35 +1,29 @@
 # BadPing 🚀💻
 
+![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
+![Status](https://img.shields.io/badge/Status-Development-orange)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 
+
+-----
+
+# BadPing 🚀💻
 
 ![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 ![Status](https://img.shields.io/badge/Status-Development-orange)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 
----------
-
-
-![GitHub repo size](https://img.shields.io/github/repo-size/GoDY/BadPing)
-![GitHub stars](https://img.shields.io/github/stars/GoDY/BadPing?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GoDY/BadPing?style=social)
-![GitHub issues](https://img.shields.io/github/issues/GoDY/BadPing)
-![GitHub license](https://img.shields.io/github/license/GoDY/BadPing)
-![GitHub last commit](https://img.shields.io/github/last-commit/GoDY/BadPing)
-
-
-
----
+![GitHub repo size](https://img.shields.io/github/repo-size/GoDY4u/BadPing)
+![GitHub stars](https://img.shields.io/github/stars/GoDY4u/BadPing?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GoDY4u/BadPing?style=social)
+![GitHub issues](https://img.shields.io/github/issues/GoDY4u/BadPing)
+![GitHub license](https://img.shields.io/github/license/GoDY4u/BadPing)
+![GitHub last commit](https://img.shields.io/github/last-commit/GoDY4u/BadPing)
+![GitHub contributors](https://img.shields.io/github/contributors/GoDY4u/BadPing)
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/GoDY/BadPing)
-![GitHub stars](https://img.shields.io/github/stars/GoDY/BadPing?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GoDY/BadPing?style=social)
-![GitHub issues](https://img.shields.io/github/issues/GoDY/BadPing)
-![GitHub license](https://img.shields.io/github/license/GoDY/BadPing)
-![GitHub last commit](https://img.shields.io/github/last-commit/GoDY/BadPing)
-![GitHub contributors](https://img.shields.io/github/contributors/GoDY/BadPing)
-![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
+----
 
 
 This Bash script allows you to perform a **Denial of Service (DoS)** attack using **ICMP ping requests** with varying packet sizes and intervals. The attack levels range from low to maximum, allowing flexibility to simulate different intensity scenarios.
